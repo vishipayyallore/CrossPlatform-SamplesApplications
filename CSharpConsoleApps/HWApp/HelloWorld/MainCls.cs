@@ -17,7 +17,7 @@ namespace HelloWorld
             var color = args.Length > 0 ? args[0] : "Cyan";
             ForegroundColor = (ConsoleColor)Enum.Parse(typeof(ConsoleColor), color, true);
 
-            var mathew = new Person("Mathew Philips");
+            var mathew = new Person("Mathew Philip");
             DisplayOutput("Person Information:", mathew.ToString());
 
             WriteLine("\n\nPress ENTER key ...");
