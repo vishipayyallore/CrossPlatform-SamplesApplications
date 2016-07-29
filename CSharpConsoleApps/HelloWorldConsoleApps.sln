@@ -10,11 +10,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelloWorld", "HelloWorld", "{12A5AF5D-A8C4-47FC-9395-4E23D26FDC13}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HWApp", "HWApp", "{12A5AF5D-A8C4-47FC-9395-4E23D26FDC13}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HelloWorld", "HelloWorld\HelloWorld.xproj", "{0A256DF0-85C4-40A9-A5DF-ADE8FA0A6078}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HelloWorld", "HWApp\HelloWorld\HelloWorld.xproj", "{0A256DF0-85C4-40A9-A5DF-ADE8FA0A6078}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Personal", "Personal\Personal.xproj", "{2A314FA7-4382-484D-8853-F5FB88F0DF4D}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Personal", "HWApp\Personal\Personal.xproj", "{2A314FA7-4382-484D-8853-F5FB88F0DF4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

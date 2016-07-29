@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"A:\LordKrishna\vishipayyallore\CrossPlatform-SamplesApplications\CSharpConsoleApps\Personal\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"A:\LordKrishna\vishipayyallore\CrossPlatform-SamplesApplications\CSharpConsoleApps\Personal\bin\Debug\netcoreapp1.0\Personal.dll"
+"A:\LordKrishna\vishipayyallore\CrossPlatform-SamplesApplications\CSharpConsoleApps\HWApp\Personal\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"A:\LordKrishna\vishipayyallore\CrossPlatform-SamplesApplications\CSharpConsoleApps\HWApp\Personal\bin\Debug\netcoreapp1.0\Personal.dll"
 -r:"C:\Users\LordKrishna\.nuget\packages\Microsoft.CSharp\4.0.1-rc2-24027\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\LordKrishna\.nuget\packages\Microsoft.VisualBasic\10.0.1-rc2-24027\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\LordKrishna\.nuget\packages\Microsoft.Win32.Primitives\4.0.1-rc2-24027\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -84,5 +84,5 @@
 -r:"C:\Users\LordKrishna\.nuget\packages\System.Threading.Timer\4.0.1-rc2-24027\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\LordKrishna\.nuget\packages\System.Xml.ReaderWriter\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\LordKrishna\.nuget\packages\System.Xml.XDocument\4.0.11-rc2-24027\ref\netstandard1.3\System.Xml.XDocument.dll"
-"A:\LordKrishna\vishipayyallore\CrossPlatform-SamplesApplications\CSharpConsoleApps\Personal\Person.cs"
-"A:\LordKrishna\vishipayyallore\CrossPlatform-SamplesApplications\CSharpConsoleApps\Personal\Properties\AssemblyInfo.cs"
+"A:\LordKrishna\vishipayyallore\CrossPlatform-SamplesApplications\CSharpConsoleApps\HWApp\Personal\Person.cs"
+"A:\LordKrishna\vishipayyallore\CrossPlatform-SamplesApplications\CSharpConsoleApps\HWApp\Personal\Properties\AssemblyInfo.cs"
