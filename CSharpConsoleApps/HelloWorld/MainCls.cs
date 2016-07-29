@@ -1,6 +1,5 @@
 ﻿using System;
 using Personal;
-
 using static System.Console;
 
 namespace HelloWorld
